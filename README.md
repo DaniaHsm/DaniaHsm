@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋🏽, I'm Dania Houssami</h1>
-<h3 align="center">A first-year Computer Science student</h3>
+<h3 align="center">A first-year Computer Science student from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif">
 
 
 - 🔭 I’m currently working on [Reversi](https://github.com/DaniaHsm/Othello-Reversi)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Data Stuctures**
 
 - 📫 How to reach me **d_houss@live.concordia.ca**
 
