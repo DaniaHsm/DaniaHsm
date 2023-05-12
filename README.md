@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif">
 
 
-- 🔭 I’m currently working on [Reversi](https://github.com/DaniaHsm/Othello-Reversi)
+- 🔭 I’m currently working on [Sketchpad](https://github.com/DaniaHsm/Sketchpad)
 
-- 🌱 I’m currently learning **Web Development & Data Stuctures**
+- 🌱 I’m currently learning **Web Development & Operating Systems**
 
 - 📫 How to reach me **d_houss@live.concordia.ca**
 
