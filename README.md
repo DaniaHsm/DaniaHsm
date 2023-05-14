@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Dania Houssami</h1>
-<h3 align="center">A first-year Computer Science student from Canada</h3>
+<h3 align="center">A second-year Computer Science student from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif">
 
