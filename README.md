@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Dania</h1>
-<h3 align="center">A second-year Computer Science student from Canada</h3>
-
-
+<h3 align="center">A third-year Computer Science student from Canada</h3>
 
 
 - 🔭 I’m currently working on [Sketchpad](https://github.com/DaniaHsm/Sketchpad)
@@ -11,6 +9,12 @@
 - 📫 How to reach me **d_houss@live.concordia.ca**
 
 <p align="left">
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/daniahoussami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dania Houssami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
