@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sketchpad](https://github.com/DaniaHsm/Sketchpad)
 
-- 🌱 I’m currently learning web development**
+- 🌱 I’m currently learning **deep learning**
 
 - 📫 How to reach me **d_houss@live.concordia.ca**
 
